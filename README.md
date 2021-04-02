@@ -1,4 +1,8 @@
 # Termux-Games
+
+👉[![Instagram](https://img.shields.io/badge/INSTAGRAM-FOLLOW-red?style=for-the-badge&logo=instagram)](https://www.instagram.com/shubham_g0sain)👈
+
+
 <strong><u>Play Games on Termux</u></strong> 🎮<br>
 
 <b>Games is a Script where you can find all The Games that Are available for Termux.</b><br> 
